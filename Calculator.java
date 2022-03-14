@@ -22,6 +22,9 @@ public class Calculator {
 
         System.out.println(" Which operation do you want to perform?");
 
+        //github comment subtraction
+        System.out.println(2-5);
+
         option = obj.nextInt();
         switch (option)
         {
